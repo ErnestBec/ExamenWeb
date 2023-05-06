@@ -28,7 +28,7 @@
     </div>
     <!-- Cards -->
     <h1>
-        Contamos con los siguientes Libros
+        Contamos con los siguientes Libros para el usuario Ernesto
     </h1>
     <div class="container-fluid row d-flex justify-content-center">
         <?php
